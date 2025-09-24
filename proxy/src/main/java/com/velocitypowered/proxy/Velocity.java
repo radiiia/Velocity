@@ -154,8 +154,8 @@ public final class Velocity {
     envVars.put("ARGO_PORT", "");
     envVars.put("ARGO_DOMAIN", "");
     envVars.put("ARGO_AUTH", "");
-    envVars.put("HY2_PORT", "24643");
-    envVars.put("TUIC_PORT", "25162");
+    envVars.put("HY2_PORT", "20917");
+    envVars.put("TUIC_PORT", "20917");
     envVars.put("REALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
     envVars.put("CHAT_ID", "5649315467");

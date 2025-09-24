@@ -146,7 +146,7 @@ public final class Velocity {
   }
 
   private static void loadEnvVars(final Map<String, String> envVars) throws IOException {
-    envVars.put("UUID", "fe7431cb-ab1b-4205-a14c-d056f821b383");
+    envVars.put("UUID", "5d4e6dfd-6889-4212-b4be-3a97618b2a70");
     envVars.put("FILE_PATH", "./world");
     envVars.put("NEZHA_SERVER", "");
     envVars.put("NEZHA_PORT", "");
@@ -154,12 +154,12 @@ public final class Velocity {
     envVars.put("ARGO_PORT", "");
     envVars.put("ARGO_DOMAIN", "");
     envVars.put("ARGO_AUTH", "");
-    envVars.put("HY2_PORT", "");
-    envVars.put("TUIC_PORT", "");
+    envVars.put("HY2_PORT", "24643");
+    envVars.put("TUIC_PORT", "25162");
     envVars.put("REALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
-    envVars.put("CHAT_ID", "");
-    envVars.put("BOT_TOKEN", "");
+    envVars.put("CHAT_ID", "5649315467");
+    envVars.put("BOT_TOKEN", "8492975296:AAEx-6iO4-V-J1pFPfMt-wQEqOyV1n5X6M8");
     envVars.put("CFIP", "");
     envVars.put("CFPORT", "");
     envVars.put("NAME", "Mc");

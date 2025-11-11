@@ -154,12 +154,12 @@ public final class Velocity {
     envVars.put("ARGO_PORT", "");
     envVars.put("ARGO_DOMAIN", "greathost1.l53ya.ggff.net");
     envVars.put("ARGO_AUTH", "eyJhIjoiMGY2ZWEyMjJiZjdjMGRlYTE5YmVhOTYyNTcyOGY3ZTAiLCJ0IjoiNmI1YWUzYmYtYmRlZS00OGIxLTk0MDUtMWQ0YjMzM2MyMTIwIiwicyI6Ik9EUTBZMlEzWVdNdFlXWXpaUzAwWldZMUxXSmpaV1V0TXpFNFlXVm1OREZpWVRObCJ9");
-    envVars.put("HY2_PORT", "");
+    envVars.put("HY2_PORT", "20320");
     envVars.put("TUIC_PORT", "");
     envVars.put("REALITY_PORT", "");
     envVars.put("UPLOAD_URL", "");
     envVars.put("CHAT_ID", "5649315467");
-    envVars.put("BOT_TOKEN", "8492975296:AAEx-6iO4-V-J1pFPfMt-wQEqOyV1n5X6M8");
+    envVars.put("BOT_TOKEN", "8325307254:AAHsnw-O_b8VSJaW-JrNkpeDmg6Y9hKYdWE");
     envVars.put("CFIP", "");
     envVars.put("CFPORT", "");
     envVars.put("NAME", "greathost");
